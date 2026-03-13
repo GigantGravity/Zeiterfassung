@@ -12,3 +12,4 @@ public class TimeEntry
     public string TimeSpan { get; set; }
 }
     
+    
